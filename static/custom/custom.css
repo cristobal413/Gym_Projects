@@ -1,0 +1,19 @@
+/* Estilos personalizados Gym Project */
+body {
+    background-color: #f4f6f9;
+}
+
+.navbar-brand {
+    letter-spacing: 0.5px;
+}
+
+.card {
+    border-radius: 0.6rem;
+}
+
+.table th {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.82rem;
+    letter-spacing: 0.4px;
+}
